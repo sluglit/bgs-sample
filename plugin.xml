@@ -36,7 +36,7 @@
             </service>
         </config-file>
         
-        <source-file src="src/com/red_folder/phonegap/plugin/backgroundservice/sample/MyService.java" target-dir="src/com/red_folder/phonegap/plugin/backgroundservice/sample" />
+        <source-file src="src/android/com/red_folder/phonegap/plugin/backgroundservice/sample/MyService.java" target-dir="src/com/red_folder/phonegap/plugin/backgroundservice/sample" />
     </platform>
 	
 </plugin>
